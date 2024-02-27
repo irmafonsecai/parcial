@@ -1,0 +1,35 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+ *{
+    background-color: darkkhaki;
+ }
+
+ a{
+    font: optional;color: chocolate;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: bold;
+
+ }
+h2{
+    font-size: 24px;
+    font: optional;color: darkblue;
+    text-align: center;
+    word-spacing: 3px;
+    text-transform: uppercase;
+}
+p{
+    font-size: 16px;
+    text-indent: 30px;
+    word-spacing: 5px;
+    text-align: justify;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.pie{
+    font: optional;color: brown;
+    font-weight: bold;
+}
+
